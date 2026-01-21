@@ -20,6 +20,8 @@ Hi There 👋, I'm rhAsero</p>
 <h3 align="center">🔗 My Socials</h3>
 <p align="center" dir="auto">
 <a href="https://www.facebook.com/hansbbaruela/" rel="nofollow"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/facebook.png?raw=true" alt="" height="30" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://www.instagram.com/exclusive_hans" rel="nofollow"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png?raw=true" alt="" height="30" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://www.tiktok.com/@hansasero" rel="nofollow"><img align="center" src="https://github.com/wayou/svg-tiktok-logo/blob/master/tiktok.png?raw=true" alt="" height="30" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
 
 ---
