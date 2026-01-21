@@ -3,17 +3,19 @@ Hi There 👋, I'm rhAsero</p>
 <h3 align="center" tabindex="-1" class="heading-element" dir="auto">IT Student</h3>
 <p align="center" dir="auto">Russel Hans B. Baruela</p>
 
-<br>
-<h3 align="center">📖 About</h3>
-<p align="center" dir="auto">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" alt="PH Flag" height="10" style="vertical-align: middle;">
-  </a>
-  <br> "I'm Skilled at Welding"
-  <br> Hardworker
-  <br> Mabait sa mababait
-</p>
+---
 
-<br>
+<h3 align="center">Motto</h3>
+<p align="center" dir="auto">"Respect is Earned not Given"</p>
+
+---
+<h3 align="center">📖 About</h3>
+<p align="center" dir="auto">Skilled at Welding</p>
+<p align="center" dir="auto">Hardworking</p>
+<p align="center" dir="auto">Mabait sa Mababait</p>
+
+---
+
 </p>
 <h3 align="center">🔗 My Socials</h3>
 <p align="center" dir="auto">
