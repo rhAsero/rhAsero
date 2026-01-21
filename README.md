@@ -15,15 +15,12 @@ Hi There 👋, I'm rhAsero</p>
 
 <br>
 </p>
-
-<br>
-
 <h3 align="center">🔗 My Socials</h3>
 <p align="center" dir="auto">
 <a href="https://www.facebook.com/hansbbaruela/" rel="nofollow"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/facebook.png?raw=true" alt="" height="30" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
 
-<br>
 ---
+
 <p align="center" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=rhAsero&show_icons=true&theme=radical" alt="GitHub Stats" />
